@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97a75818-a7a2-42f2-8784-3ca2f911ccd5": {
+      "ProjectGuid": "97a75818-a7a2-42f2-8784-3ca2f911ccd5",
+      "DisplayName": "Sistema de Facturacion",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

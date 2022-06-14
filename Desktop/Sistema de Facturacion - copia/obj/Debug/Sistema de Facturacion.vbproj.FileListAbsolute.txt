@@ -1,0 +1,725 @@
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Sistema de Facturacion.dll.config
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Sistema de Facturacion.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Sistema de Facturacion.pdb
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Sistema de Facturacion.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema_de_Facturacion.Resources.resources
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.CopyComplete
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.pdb
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\MySql.Data.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ZstdNet.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\System.Memory.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\System.Buffers.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\MySql.Data.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Data.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Printing.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.Bootstrap.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.Resources.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Office.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.ASPxRichEdit.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.ASPxScheduler.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.ASPxSpellChecker.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Charts.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraCharts.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.DataAccess.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Images.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Xpo.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.CodeParser.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Data.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Printing.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.Bootstrap.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Office.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.ASPxRichEdit.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.ASPxScheduler.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Web.ASPxSpellChecker.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.SpellChecker.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Charts.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraCharts.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.DataAccess.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.Xpo.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Web.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Web.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Web.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Web.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.dll.licenses
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraReports.v21.2.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\Microsoft.SqlServer.Types.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\EnvDTE.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\stdole.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\DevExpress.XtraReports.v21.2.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\EnvDTE.xml
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Proyecto de Facturacion\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Sistema de Facturacion.dll.config
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Sistema de Facturacion.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Sistema de Facturacion.pdb
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Sistema de Facturacion.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Charts.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.CodeParser.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Data.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.DataAccess.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Office.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Printing.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.Bootstrap.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.Resources.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Xpo.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraCharts.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraReports.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraReports.v21.2.Web.WebForms.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.SqlServer.Types.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\MySql.Data.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.ASPxRichEdit.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.ASPxScheduler.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\EnvDTE.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Google.Protobuf.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ZstdNet.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.ASPxSpellChecker.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Images.v21.2.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\stdole.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Memory.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Buffers.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Charts.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Data.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.DataAccess.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Office.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Printing.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.Bootstrap.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Xpo.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraCharts.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraReports.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraReports.v21.2.Web.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraReports.v21.2.Web.WebForms.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\MySql.Data.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.ASPxRichEdit.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.ASPxScheduler.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\EnvDTE.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.Web.ASPxSpellChecker.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.SpellChecker.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Web.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Web.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Web.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Web.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CRYPTEXTLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CrystalAnalysisRequestModelLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CrystalAnalysisXmlSerializeLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CrystalClientDocLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CrystalDocMgmtUndoManagerLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema_de_Facturacion.Resources.resources
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.dll.licenses
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.vbproj.CopyComplete
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.dll
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.xml
+C:\Users\User\Desktop\Sistema de Facturacion\obj\Debug\Sistema de Facturacion.pdb
+C:\Users\User\Desktop\Sistema de Facturacion\bin\x86\SqlServerSpatial160.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\x64\SqlServerSpatial160.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\System.Buffers.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\System.Memory.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Bold.Licensing.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\BoldReports.Web.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Localization.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.Compression.Base.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.DocIO.Base.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.Licensing.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.Pdf.Base.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.XlsIO.Base.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Sistema de Facturacion\bin\BoldReports.Web.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.Razor.Host.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.CodeAnalysis.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Globalization.CultureInfoCache.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Localization.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.Compression.Base.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.DocIO.Base.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.Pdf.Base.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\Syncfusion.XlsIO.Base.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Collections.Immutable.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Reflection.Metadata.xml
+C:\Users\User\Desktop\Sistema de Facturacion\bin\System.Text.Encodings.Web.xml
